@@ -1,7 +1,5 @@
 # DLND_Project3
 
----
-
 Udacity Deep Learning Foundations - Project 3 - TV Script Generation.
 
 ## Project Description:
